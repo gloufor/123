@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9d0d60d058ec404f965ee4c0cdd092e5" Name="Diagram1">
+        <EntityTypeShape EntityType="Autoservice_RulModel.Category" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Autoservice_RulModel.Manufacturer" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Autoservice_RulModel.Order" Width="1.5" PointX="3" PointY="10.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Autoservice_RulModel.OrderProduct" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Autoservice_RulModel.PickupPoint" Width="1.5" PointX="0.75" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Autoservice_RulModel.Product" Width="1.5" PointX="3" PointY="2.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Autoservice_RulModel.Role" Width="1.5" PointX="5.75" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Autoservice_RulModel.Status" Width="1.5" PointX="0.75" PointY="12.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Autoservice_RulModel.Supplier" Width="1.5" PointX="0.75" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Autoservice_RulModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="2.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Autoservice_RulModel.User" Width="1.5" PointX="8" PointY="7.25" IsExpanded="true" />
+        <AssociationConnector Association="Autoservice_RulModel.FK_Product_Category" ManuallyRouted="false" />
+        <AssociationConnector Association="Autoservice_RulModel.FK_Product_Manufacturer" ManuallyRouted="false" />
+        <AssociationConnector Association="Autoservice_RulModel.FK__OrderProd__Order__2D27B809" ManuallyRouted="false" />
+        <AssociationConnector Association="Autoservice_RulModel.FK_Order_PickupPoint" ManuallyRouted="false" />
+        <AssociationConnector Association="Autoservice_RulModel.FK_Order_Status" ManuallyRouted="false" />
+        <AssociationConnector Association="Autoservice_RulModel.FK__OrderProd__Produ__2E1BDC42" ManuallyRouted="false" />
+        <AssociationConnector Association="Autoservice_RulModel.FK_Product_Supplier" ManuallyRouted="false" />
+        <AssociationConnector Association="Autoservice_RulModel.FK__User__UserRole__3B75D760" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

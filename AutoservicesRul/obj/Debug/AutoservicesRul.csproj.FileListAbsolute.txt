@@ -1,0 +1,114 @@
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\bin\Debug\AutoservicesRul.exe.config
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\bin\Debug\AutoservicesRul.exe
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\bin\Debug\AutoservicesRul.pdb
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\AddEditProductPage.g.cs
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Admin.g.cs
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderTicketPage.g.cs
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Auto.g.cs
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Client.g.cs
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\OrderWindow.g.cs
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul_Content.g.cs
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul_MarkupCompile.cache
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul_MarkupCompile.lref
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\App.baml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\AddEditProductPage.baml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Admin.baml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderPage.baml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderTicketPage.baml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\MainWindow.baml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Auto.baml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Client.baml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\OrderWindow.baml
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.g.resources
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.Properties.Resources.resources
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.CopyComplete
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.exe
+C:\Users\student\Desktop\Задание на стажировку\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.pdb
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.AssemblyReference.cache
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.SuggestedBindingRedirects.cache
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\AddEditProductPage.g.cs
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Admin.g.cs
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderPage.g.cs
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderTicketPage.g.cs
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\MainWindow.g.cs
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Auto.g.cs
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Client.g.cs
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\OrderWindow.g.cs
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\App.g.cs
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul_Content.g.cs
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul_MarkupCompile.cache
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul_MarkupCompile.lref
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.exe
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.pdb
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\bin\Debug\AutoservicesRul.exe.config
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\bin\Debug\AutoservicesRul.exe
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\bin\Debug\AutoservicesRul.pdb
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.dll
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.SqlServer.dll
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.xml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.SqlServer.xml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\bin\Debug\ru\EntityFramework.resources.dll
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\App.baml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\AddEditProductPage.baml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Admin.baml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderPage.baml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderTicketPage.baml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\MainWindow.baml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Auto.baml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Client.baml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\OrderWindow.baml
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.g.resources
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.Properties.Resources.resources
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.GenerateResource.cache
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.CoreCompileInputs.cache
+E:\Работа и всякое\С рабочего стола\Стажировка\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.CopyComplete
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\bin\Debug\AutoservicesRul.exe.config
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\bin\Debug\AutoservicesRul.exe
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\bin\Debug\AutoservicesRul.pdb
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.dll
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.xml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.AssemblyReference.cache
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.SuggestedBindingRedirects.cache
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\AddEditProductPage.g.cs
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Admin.g.cs
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderPage.g.cs
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderTicketPage.g.cs
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Auto.g.cs
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Client.g.cs
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\OrderWindow.g.cs
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\App.g.cs
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul_Content.g.cs
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul_MarkupCompile.cache
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul_MarkupCompile.lref
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\App.baml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\AddEditProductPage.baml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Admin.baml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderPage.baml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\OrderTicketPage.baml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\MainWindow.baml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Auto.baml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Pages\Client.baml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\Windows\OrderWindow.baml
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.g.resources
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.Properties.Resources.resources
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.GenerateResource.cache
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.CoreCompileInputs.cache
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.csproj.CopyComplete
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.exe
+C:\Users\lesya\OneDrive\Рабочий стол\AutoservicesRul\AutoservicesRul\obj\Debug\AutoservicesRul.pdb
